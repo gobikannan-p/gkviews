@@ -1,5 +1,5 @@
-Title: First Post
-Published: 1/1/2016
+Title: My First Post
+Published: 10/10/2017
 Tags: Introduction
 ---
-This is my first post!
+This is my first sample post!
